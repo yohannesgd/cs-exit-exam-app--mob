@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "586991248473",
+    "project_id": "examapp-3c252",
+    "storage_bucket": "examapp-3c252.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:586991248473:android:593a52877a45d20cc3bd48",
+        "android_client_info": {
+          "package_name": "com.yohannes.csexitexam"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQQ8-ao3Hxl0rfLMV6TewiDfK8xMvf6ck"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
