@@ -1,0 +1,321 @@
+{
+  "exam": {
+    "id": "CS-EXIT-2025",
+    "title": "Ethiopian Computer Science Exit Examination",
+    "version": "2.0.0",
+    "totalQuestions": 1200,
+    "timeLimit": 1030
+  },
+  "subjects": [
+    {
+      "id": 101,
+      "order": 1,
+      "name": "Programming and Algorithms",
+      "description": "Computer Programming, OOP, Data Structures, Algorithms",
+      "icon": "code",
+      "timeLimit": 60,
+      "questionCount": 50,
+      "file": "assets/questions/01_programming_algorithms.json"
+    },
+    {
+      "id": 102,
+      "order": 2,
+      "name": "Database and Software Engineering",
+      "description": "Database Systems, SQL, Transactions, Software Engineering",
+      "icon": "storage",
+      "timeLimit": 45,
+      "questionCount": 40,
+      "file": "assets/questions/02_database_software.json"
+    },
+    {
+      "id": 103,
+      "order": 3,
+      "name": "Networking and System Administration",
+      "description": "Data Communication, Computer Networking, Network Security",
+      "icon": "lan",
+      "timeLimit": 45,
+      "questionCount": 40,
+      "file": "assets/questions/03_networking_admin.json"
+    },
+    {
+      "id": 104,
+      "order": 4,
+      "name": "Computer Architecture and Operating Systems",
+      "description": "Computer Organization, Operating Systems, Digital Logic",
+      "icon": "memory",
+      "timeLimit": 45,
+      "questionCount": 40,
+      "file": "assets/questions/04_architecture_os.json"
+    },
+    {
+      "id": 105,
+      "order": 5,
+      "name": "Intelligent Systems and Theory",
+      "description": "AI, Machine Learning, Automata Theory, Compiler Design",
+      "icon": "psychology",
+      "timeLimit": 50,
+      "questionCount": 50,
+      "file": "assets/questions/05_intelligent_systems.json"
+    },
+    {
+      "id": 106,
+      "order": 6,
+      "name": "Project Management",
+      "description": "Software Project Management, Risk Management, Agile",
+      "icon": "assignment",
+      "timeLimit": 35,
+      "questionCount": 40,
+      "file": "assets/questions/06_project_management.json"
+    },
+    {
+      "id": 111,
+      "order": 7,
+      "name": "Advanced Programming and Algorithms",
+      "description": "Advanced Algorithms, Design Patterns, System Design, Concurrency",
+      "icon": "code",
+      "timeLimit": 60,
+      "questionCount": 50,
+      "file": "assets/questions/01_programming_algorithms_advanced.json"
+    },
+    {
+      "id": 112,
+      "order": 8,
+      "name": "Advanced Database Systems",
+      "description": "Advanced SQL, Database Design, Transactions, NoSQL with Ethiopian context",
+      "icon": "storage",
+      "timeLimit": 50,
+      "questionCount": 40,
+      "file": "assets/questions/02_database_software_advanced.json"
+    },
+    {
+      "id": 113,
+      "order": 9,
+      "name": "Advanced Networking",
+      "description": "Advanced Routing, Network Security, Wireless, Network Administration",
+      "icon": "lan",
+      "timeLimit": 45,
+      "questionCount": 40,
+      "file": "assets/questions/03_networking_admin_advanced.json"
+    },
+    {
+      "id": 114,
+      "order": 10,
+      "name": "Advanced Computer Architecture and OS",
+      "description": "Advanced Architecture, OS Internals, Memory Management, Scheduling",
+      "icon": "memory",
+      "timeLimit": 50,
+      "questionCount": 40,
+      "file": "assets/questions/04_architecture_os_advanced.json"
+    },
+    {
+      "id": 115,
+      "order": 11,
+      "name": "Advanced Intelligent Systems",
+      "description": "Advanced AI, Deep Learning, NLP, Advanced Automata Theory",
+      "icon": "psychology",
+      "timeLimit": 60,
+      "questionCount": 50,
+      "file": "assets/questions/05_intelligent_systems_advanced.json"
+    },
+    {
+      "id": 116,
+      "order": 12,
+      "name": "Advanced Project Management",
+      "description": "Advanced Agile, Project Planning, Risk Management, Estimation",
+      "icon": "assignment",
+      "timeLimit": 40,
+      "questionCount": 40,
+      "file": "assets/questions/06_project_management_advanced.json"
+    },
+    {
+      "id": 117,
+      "order": 13,
+      "name": "Mobile Application Development",
+      "description": "Flutter, Android, iOS, Cross-Platform Development, Mobile UI/UX",
+      "icon": "smartphone",
+      "timeLimit": 45,
+      "questionCount": 40,
+      "file": "assets/questions/07_mobile_development.json"
+    },
+    {
+      "id": 118,
+      "order": 14,
+      "name": "Cloud Computing",
+      "description": "AWS, Azure, GCP, Cloud Architecture, Containers, Cloud Security",
+      "icon": "cloud",
+      "timeLimit": 45,
+      "questionCount": 40,
+      "file": "assets/questions/08_cloud_computing.json"
+    },
+    {
+      "id": 119,
+      "order": 15,
+      "name": "Cyber Security",
+      "description": "Network Security, Cryptography, Application Security, Ethical Hacking, Incident Response",
+      "icon": "security",
+      "timeLimit": 45,
+      "questionCount": 40,
+      "file": "assets/questions/09_cyber_security.json"
+    },
+    {
+      "id": 120,
+      "order": 16,
+      "name": "Machine Learning",
+      "description": "Supervised Learning, Unsupervised Learning, Neural Networks, NLP, MLOps",
+      "icon": "psychology",
+      "timeLimit": 50,
+      "questionCount": 40,
+      "file": "assets/questions/10_machine_learning.json"
+    },
+    {
+      "id": 121,
+      "order": 17,
+      "name": "Internet of Things (IoT)",
+      "description": "IoT Architecture, Sensors, Communication Protocols, Embedded Systems, IoT Security, Applications",
+      "icon": "sensors",
+      "timeLimit": 45,
+      "questionCount": 40,
+      "file": "assets/questions/11_iot.json"
+    },
+    {
+      "id": 122,
+      "order": 18,
+      "name": "Data Science & Big Data",
+      "description": "Data Science Fundamentals, Big Data Technologies, Data Processing, Visualization, Statistical Analysis",
+      "icon": "analytics",
+      "timeLimit": 50,
+      "questionCount": 40,
+      "file": "assets/questions/12_data_science.json"
+    },
+    {
+      "id": 123,
+      "order": 19,
+      "name": "Blockchain & Cryptocurrency",
+      "description": "Blockchain Fundamentals, Cryptocurrency, Smart Contracts, Consensus, DLT, Applications",
+      "icon": "link",
+      "timeLimit": 45,
+      "questionCount": 40,
+      "file": "assets/questions/13_blockchain.json"
+    },
+    {
+      "id": 124,
+      "order": 20,
+      "name": "Quantum Computing",
+      "description": "Quantum Fundamentals, Qubits, Quantum Gates, Algorithms, Applications",
+      "icon": "science",
+      "timeLimit": 30,
+      "questionCount": 20,
+      "file": "assets/questions/14_quantum_computing.json"
+    },
+    {
+      "id": 125,
+      "order": 21,
+      "name": "Game Development",
+      "description": "Game Design, Game Engines, Graphics & Animation, Physics, Programming, Mobile Games",
+      "icon": "sports_esports",
+      "timeLimit": 45,
+      "questionCount": 40,
+      "file": "assets/questions/15_game_development.json"
+    },
+    {
+      "id": 126,
+      "order": 22,
+      "name": "DevOps & CI/CD",
+      "description": "DevOps Culture, CI/CD Pipelines, Infrastructure as Code, Container Orchestration, Monitoring, Cloud-native",
+      "icon": "cloud_sync",
+      "timeLimit": 45,
+      "questionCount": 40,
+      "file": "assets/questions/16_devops.json"
+    },
+    {
+      "id": 127,
+      "order": 23,
+      "name": "Programming - Extended",
+      "description": "100 additional programming questions",
+      "icon": "code",
+      "timeLimit": 60,
+      "questionCount": 100,
+      "file": "assets/questions/17_programming_new.json"
+    },
+    {
+      "id": 128,
+      "order": 24,
+      "name": "Database Systems - Advanced Topics",
+      "description": "50 questions on data warehousing, NoSQL, big data, and modern database topics",
+      "icon": "storage",
+      "timeLimit": 45,
+      "questionCount": 50,
+      "file": "assets/questions/18_database_new.json"
+    },
+    {
+      "id": 129,
+      "order": 25,
+      "name": "Networking - Extended",
+      "description": "50 additional networking questions",
+      "icon": "lan",
+      "timeLimit": 45,
+      "questionCount": 50,
+      "file": "assets/questions/19_networking_new.json"
+    },
+    {
+      "id": 130,
+      "order": 26,
+      "name": "Architecture & OS - Extended",
+      "description": "50 additional architecture and OS questions",
+      "icon": "memory",
+      "timeLimit": 45,
+      "questionCount": 50,
+      "file": "assets/questions/20_architecture_new.json"
+    },
+    {
+      "id": 131,
+      "order": 27,
+      "name": "Intelligent Systems - Extended",
+      "description": "50 additional artificial intelligence, automata theory, and compiler design questions",
+      "icon": "psychology",
+      "timeLimit": 50,
+      "questionCount": 50,
+      "file": "assets/questions/21_intelligent_new.json"
+    },
+    {
+      "id": 132,
+      "order": 28,
+      "name": "Project Management - Extended",
+      "description": "40 additional project management questions",
+      "icon": "task",
+      "timeLimit": 40,
+      "questionCount": 40,
+      "file": "assets/questions/22_project_new.json"
+    },
+    {
+      "id": 136,
+      "order": 32,
+      "name": "Comprehensive CS Review",
+      "description": "60 mixed questions from all core CS subjects",
+      "icon": "menu_book",
+      "timeLimit": 90,
+      "questionCount": 60,
+      "file": "assets/questions/36_mixed_review.json"
+    },
+    {
+      "id": 137,
+      "order": 33,
+      "name": "Data Structures & Algorithms - Graphs",
+      "description": "50 questions on graph algorithms, traversals, and applications",
+      "icon": "timeline",
+      "timeLimit": 45,
+      "questionCount": 50,
+      "file": "assets/questions/37_dsa_graph_algorithms.json"
+    },
+    {
+      "id": 138,
+      "order": 34,
+      "name": "Previous Years Exams",
+      "description": "100 questions from MOE Exit Exam 2016",
+      "icon": "history_edu",
+      "timeLimit": 90,
+      "questionCount": 100,
+      "file": "assets/questions/38_previous_exams.json"
+  }
+  ]
+}
