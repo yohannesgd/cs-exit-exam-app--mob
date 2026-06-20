@@ -65,7 +65,6 @@
 │ (Models, JSON Files, SQLite Tables) │
 └─────────────────────────────────────────────────────────┘
 
-text
 
 ### Project Structure
 lib/
@@ -75,8 +74,6 @@ lib/
 ├── providers/ # State management (ThemeProvider)
 ├── utils/ # Helper functions (JSON loader, Error handler)
 └── widgets/ # Reusable widgets (Progress overlay, etc.)
-
-text
 
 ---
 
@@ -142,9 +139,9 @@ This project is licensed under the MIT License – see LICENSE for details.
 📞 Contact
 Developer: Yohannes Gurmu
 
-Email: [your.email@example.com]
+Email: [nanigurmu65@gmail.com]
 
-LinkedIn: [Your LinkedIn URL]
+LinkedIn: [http://www.linkedin.com/in/yohannes-gurmu-dadi-70167b35a]
 
 ⭐ Support the Project
 If you find this project useful, please give it a ⭐ on GitHub and share it with Ethiopian CS students!
