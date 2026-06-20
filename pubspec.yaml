@@ -1,0 +1,82 @@
+name: cs_exit_exam_app
+description: Ethiopian Computer Science Exit Exam Preparation App
+publish_to: 'none'
+version: 1.3.0+24  # versionName=1.3.0, versionCode=24
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+hooks:
+  user_defines:
+    sqlite3:
+      source: system      # Use system SQLite instead of downloading
+      name: sqlite3
+dependencies:
+  flutter:
+    sdk: flutter
+  
+  # Core dependencies
+  sqflite: ^2.3.0
+  sqflite_common_ffi: ^2.3.2
+  path: ^1.8.3
+  path_provider: ^2.1.0
+  shared_preferences: ^2.2.2
+  provider: ^6.1.2
+  intl: ^0.20.0
+  hive: ^2.2.3
+  hive_flutter: ^1.1.0
+  
+  # UI Enhancements for Mobile - USING STABLE ALTERNATIVES
+  awesome_notifications: ^0.11.0  
+  badges: ^3.1.2  # ✅ For in-app badges (not app icon badges)
+  share_plus: ^13.1.0
+  url_launcher: ^6.3.0
+  package_info_plus: ^10.1.0
+  device_info_plus: ^13.1.0
+  vibration: ^3.1.4
+  pdf: ^3.10.7        # For PDF generation
+  printing: ^5.11.1   # For printing support
+  http: ^1.1.0
+  clipboard: ^3.0.14
+  image_picker: ^1.0.5 
+
+  # Firebase & Crashlytics
+  firebase_core: ^4.8.0
+  firebase_crashlytics: ^5.2.1
+  firebase_analytics: ^12.4.0
+
+  # Performance
+  flutter_native_splash: ^2.4.7
+  flutter_launcher_icons: ^0.14.4
+  
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+
+flutter:
+  uses-material-design: true
+  
+  assets:  
+    - assets/images/default_avatar.png
+    - assets/config/exam_config.json
+    
+
+flutter_launcher_icons:
+  android: "ic_launcher"
+  ios: true
+  image_path: "assets/images/app_icon.png"
+  adaptive_icon_background: "#36013F" # Use your Deep Purple hex code
+  adaptive_icon_foreground: "assets/images/app_icon.png"
+  min_sdk_android: 21
+
+# Splash Screen Configuration
+flutter_native_splash:
+  color: "#4A148C"
+  image: "assets/images/splash.png"
+  android: true
+  ios: true
+  android_gravity: center
+  ios_content_mode: center
+  fullscreen: true
+

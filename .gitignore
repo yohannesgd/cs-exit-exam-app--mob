@@ -1,0 +1,34 @@
+﻿# Flutter
+.dart_tool/
+build/
+pubspec.lock
+.pub-cache/
+
+# Android
+android/.gradle/
+android/app/build/
+android/local.properties
+
+# iOS
+ios/Pods/
+ios/.symlinks/
+*.xcworkspace/
+
+# IDE
+.vscode/
+.idea/
+*.iml
+
+# Keystore
+*.jks
+*.keystore
+*.key
+key.properties
+
+# Environment
+.env
+.env.*
+local.properties
+
+# User data
+assets/data/user_*.json
