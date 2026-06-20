@@ -9,7 +9,7 @@ environment:
 hooks:
   user_defines:
     sqlite3:
-      source: system      # Use system SQLite instead of downloading
+      source: system      
       name: sqlite3
 dependencies:
   flutter:
@@ -28,7 +28,7 @@ dependencies:
   
   # UI Enhancements for Mobile - USING STABLE ALTERNATIVES
   awesome_notifications: ^0.11.0  
-  badges: ^3.1.2  # ✅ For in-app badges (not app icon badges)
+  badges: ^3.1.2  
   share_plus: ^13.1.0
   url_launcher: ^6.3.0
   package_info_plus: ^10.1.0
@@ -66,7 +66,7 @@ flutter_launcher_icons:
   android: "ic_launcher"
   ios: true
   image_path: "assets/images/app_icon.png"
-  adaptive_icon_background: "#36013F" # Use your Deep Purple hex code
+  adaptive_icon_background: "#36013F" 
   adaptive_icon_foreground: "assets/images/app_icon.png"
   min_sdk_android: 21
 
