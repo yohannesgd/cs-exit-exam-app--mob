@@ -1,5 +1,16 @@
 # 🎓 CS Exit Exam Ethiopia
 
+<!-- Badges -->
+[![Flutter CI](https://github.com/yohannesgd/cs-exit-exam-app-mob/actions/workflows/flutter_ci.yml/badge.svg)](https://github.com/yohannesgd/cs-exit-exam-app-mob/actions/workflows/flutter_ci.yml)
+[![GitHub release](https://img.shields.io/github/release/yohannesgd/cs-exit-exam-app-mob.svg)](https://github.com/yohannesgd/cs-exit-exam-app-mob/releases)
+[![GitHub license](https://img.shields.io/github/license/yohannesgd/cs-exit-exam-app-mob)](https://github.com/yohannesgd/cs-exit-exam-app-mob/blob/main/LICENSE)
+[![Play Store](https://img.shields.io/badge/Google_Play-Live-green?style=flat&logo=google-play)](https://play.google.com/store/apps/details?id=com.yohannes.csexitexam)
+[![GitHub stars](https://img.shields.io/github/stars/yohannesgd/cs-exit-exam-app-mob)](https://github.com/yohannesgd/cs-exit-exam-app-mob/stargazers)
+
+[![Flutter CI](https://github.com/yohannesgd/cs-exit-exam-app-mob/actions/workflows/flutter_ci.yml/badge.svg)](https://github.com/yohannesgd/cs-exit-exam-app-mob/actions/workflows/flutter_ci.yml)
+[![GitHub release](https://img.shields.io/github/release/yohannesgd/cs-exit-exam-app-mob.svg)](https://github.com/yohannesgd/cs-exit-exam-app-mob/releases)
+[![GitHub license](https://img.shields.io/github/license/yohannesgd/cs-exit-exam-app-mob)](https://github.com/yohannesgd/cs-exit-exam-app-mob/blob/main/LICENSE)
+
 [![Flutter](https://img.shields.io/badge/Flutter-3.24-blue?style=flat-square&logo=flutter)](https://flutter.dev)
 [![Dart](https://img.shields.io/badge/Dart-3.5-blue?style=flat-square&logo=dart)](https://dart.dev)
 [![Play Store](https://img.shields.io/badge/Google_Play-Live-green?style=flat-square&logo=google-play)](https://play.google.com/store/apps/details?id=com.yohannes.csexitexam)
@@ -7,6 +18,8 @@
 
 **CS Exit Exam Ethiopia** is a comprehensive exam preparation app for Computer Science students in Ethiopia, featuring 1500+ practice questions across 31 subjects, dark mode, offline access, and performance analytics.
 
+📱 Play Store: com.yohannes.csexitexam
+🌐 Developer: https://github.com/yohannesgd
 ---
 
 ## 📱 **Screenshots**

@@ -1,0 +1,62 @@
+gradle-wrapper.jar
+/.gradle
+/captures/
+/gradlew# Flutter
+.dart_tool/
+build/
+pubspec.lock
+.pub-cache/
+
+# Android
+android/.gradle/
+android/app/build/
+android/app/src/debug/
+android/app/src/profile/
+android/app/src/main/res/
+android/local.properties
+
+# iOS
+ios/Pods/
+ios/.symlinks/
+*.xcworkspace/
+
+# IDE
+.vscode/
+.idea/
+*.iml
+
+# Keystore
+*.jks
+*.keystore
+*.key
+key.properties
+
+# Environment
+.env
+.env.*
+local.properties
+
+# User data
+assets/data/user_*.json
+
+# macOS
+.DS_Store
+/gradlew.bat
+/local.properties
+GeneratedPluginRegistrant.java
+.cxx/
+
+# Remember to never publicly share your keystore.
+# See https://flutter.dev/to/reference-keystore
+key.properties
+**/*.keystore
+**/*.jks
+
+# Android build files (ignore everything except source code)
+android/app/build/
+android/.gradle/
+android/local.properties
+
+# But keep the source files (add them with git add -f if needed)
+!android/app/src/main/
+!android/app/build.gradle.kts
