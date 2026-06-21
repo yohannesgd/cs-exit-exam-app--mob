@@ -13,9 +13,10 @@
 
 **CS Exit Exam Ethiopia** is a comprehensive exam preparation app for Computer Science students in Ethiopia, featuring 1500+ practice questions across 31 subjects, dark mode, offline access, and performance analytics.
 
-📱 Play Store: com.yohannes.csexitexam
-
-🌐 Developer: https://github.com/yohannesgd
+| Platform | Link |
+|----------|------|
+| 📱 **Play Store** | [com.yohannes.csexitexam](https://play.google.com/store/apps/details?id=com.yohannes.csexitexam) |
+| 🌐 **Developer** | [github.com/yohannesgd](https://github.com/yohannesgd) |
 ---
 
 ## 📱 **Screenshots**
