@@ -38,3 +38,5 @@ assets/data/user_*.json
 
 # macOS
 .DS_Store"lib/firebase_options.dart" 
+"lib/firebase_options.dart" 
+"lib/firebase_options.template.dart" 
