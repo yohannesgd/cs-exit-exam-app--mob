@@ -37,4 +37,4 @@ local.properties
 assets/data/user_*.json
 
 # macOS
-.DS_Store
+.DS_Store"lib/firebase_options.dart" 
