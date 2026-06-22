@@ -41,3 +41,4 @@ assets/data/user_*.json
 "lib/firebase_options.dart" 
 "lib/firebase_options.template.dart" 
 "android/app/google-services.json" 
+"lib/firebase_options.dart"  "lib/firebase_options.dart" 
